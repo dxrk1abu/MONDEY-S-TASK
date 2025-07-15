@@ -4,7 +4,6 @@
 
 ### Speaking
 
-` Photo ` 
 
 ```
 Part 1
